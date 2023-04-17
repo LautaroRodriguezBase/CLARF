@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    background-color: var(--color2);
+}
+
+.nav-l{
+    width: 50%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.nav-l-logo{
+
+    color: var(--color6);
+}
+
+.nav-r{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 25px;
+}
+
+.nav-r-btn{
+    margin: 5px 15px;
+    color: var(--color6);
+}
